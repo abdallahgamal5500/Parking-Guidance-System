@@ -15,5 +15,3 @@ parking station in case of expansion. The admin also has the privilege to view t
 vacant and busy ones, in the station. Being able to add, delete, and update different users’ details and
 accounts is a must for the admin. The admin also manages their employees by getting reports on the
 employees shifts and they payroll.
-
-Demo Video Link: https://drive.google.com/file/d/1eDkDNb8Uj-b59PPhwqjBgL7lxMM1Pyd1/view?usp=sharing
